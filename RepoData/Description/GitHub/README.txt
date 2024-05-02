@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️🚫️🔏️🚫️📖️ Bliss Browser does not actually support DRM, and never will. This repository is for documentation regarding this, DRM blocking and circumvention, and other info regarding the problems with DRM.
